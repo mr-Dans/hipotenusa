@@ -5,5 +5,7 @@ It's another Motion Canvas animation. This time, I'm calculating the Hypotenuse 
 https://github.com/user-attachments/assets/05b1cc93-3e85-443c-88bc-16fa2374f8d6
 
 Music track: This Is For You by Lukrembo
+
 Source: https://freetouse.com/music
+
 Copyright Free Music for Video

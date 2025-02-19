@@ -2,7 +2,7 @@ import {makeProject} from '@motion-canvas/core';
 
 import anim from './scenes/anim?scene';
 
-import tis_for_you from '../audio/tis_for_you.mp3'
+import tis_for_you from '../audio/tis_for_you.wav'
 
 export default makeProject({
   scenes: [
